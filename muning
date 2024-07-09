@@ -28,7 +28,7 @@ class devochahentai(loader.Module):
                 await message.edit(muning)
                 await sleep(4.3)
                 "🧏‍♂️",
-            ]:
+            
                 await message.edit(muning)
                 await sleep(3.3)
                                                 "
@@ -38,7 +38,7 @@ class devochahentai(loader.Module):
 ██╔══██╗██╔══██║░░╚██╔╝░░
 ██████╦╝██║░░██║░░░██║░░░
 ╚═════╝░╚═╝░░╚═╝░░░╚═╝░░░",
-            ]:
+            
                 await message.edit(muning)
                 await sleep(1.3)
                                                 "
