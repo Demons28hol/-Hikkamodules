@@ -9,7 +9,7 @@
 # .muning используй что бы сделать мьюнинг 
 # ---------------------------------------------------------------------------------
 
-# meta developer: @Gos_HolY
+# meta developer: @MisterHolY
 from asyncio import sleep
 
 from .. import loader
