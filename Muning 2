@@ -6,7 +6,7 @@
 # Name:songmuning
 # Author: Ijidishurka
 # Commands:
-# .muning используй что бы сделать мьюнинг 
+# .muning  
 # ---------------------------------------------------------------------------------
 
 # meta developer: @MisterHolY
@@ -16,11 +16,12 @@ from .. import loader
 
 
 @loader.tds
-class devochahentai(loader.Module):
+class muning(loader.Module):
     strings = {"name": "muning"}
 
     @loader.owner
     async def muningcmd(self, message):
+        """.используй чтобы сделать мьюнинг в telegram."""
         for _ in range(1):
             for muning in [
                 "🤫",
